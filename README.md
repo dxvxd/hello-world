@@ -1,5 +1,6 @@
 # hello-world
-==
+
+Open your eyes. Everething around you is a world.
 
 ## Elements of good behaviour
 
